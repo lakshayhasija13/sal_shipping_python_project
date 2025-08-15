@@ -8,4 +8,4 @@ Drone Shipping (new), which has no flat charge, but the rate based on weight is 
 Here are the prices:
 
 Ground Shipping
-<img src = "https://tinyurl.com/2c4ny5ce">
+<img src = "https://awesomescreenshot.s3.amazonaws.com/image/5829538/55982458-e2cee5b5d3126f5a74a69aef41a17236.png">
